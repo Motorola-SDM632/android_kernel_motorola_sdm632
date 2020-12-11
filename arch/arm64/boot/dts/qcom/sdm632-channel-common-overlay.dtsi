@@ -28,7 +28,6 @@
 	reg = <0x0 0x8ee00000 0x0 0x800000>;
 };
 
-
 &firmware {
 	android {
 		fstab {
